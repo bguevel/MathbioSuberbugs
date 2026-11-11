@@ -1,5 +1,8 @@
 # Math 431: Project Proposal (Final): Disease Mutation in a Plane
 
+- make g functions same, make gamma parameters same, change a thresholds in lysis
+
+
 **Team Members:** Milo Glennon, Ben Guevel, Nathan Hoehndorf, Jack Morris
 
 ## Their Model
